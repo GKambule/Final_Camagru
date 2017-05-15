@@ -1,0 +1,39 @@
+#report
+{
+    width: auto;
+    height: auto;
+    margin: 10px 0;
+    border: 1px solid gainsboro;
+}
+
+.Body
+{
+    background-color: azure;
+}
+
+.nav
+{
+    display: block;
+    width: 80%;
+    height: 20%;
+    margin: 10px 0;
+    background-color: blue;
+    border: 20px solid black;
+
+}
+
+#home
+{
+    width: auto;
+    height: auto;
+    margin: 10px 0;
+    border: 1px solid gainsboro;
+}
+
+#gallary
+{
+    width: auto;
+    height: auto;
+    margin: 10px 0;
+    border: 1px solid gainsboro;
+}

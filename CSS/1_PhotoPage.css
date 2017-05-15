@@ -1,0 +1,36 @@
+.header
+{
+
+}
+
+.booth
+{
+    width: 400px;
+    background-color: #cccccc;
+    border: 10px solid #dddddd;
+    margin: 0 auto;
+
+}
+
+#canvus
+{
+    display: none;
+}
+
+#snap_button
+{
+    display: block;
+    margin: auto;
+    width: 400px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+#submit
+{
+    display: block;
+    margin: auto;
+    width: 400px;
+    padding: 10px 0px;
+    text-align: center;
+}
